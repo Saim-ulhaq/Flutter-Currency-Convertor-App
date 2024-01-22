@@ -8,12 +8,6 @@ void main() {
 }
 
 
-// 1. StatelessWidget
-// 2. StatefulWidget
-
-// State
-
-// 1. Material Design
 
 
 class MyApp extends StatelessWidget {
