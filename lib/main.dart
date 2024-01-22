@@ -7,7 +7,7 @@ void main() {
   runApp(const MyApp());
 }
 
-// Types of Widgets
+
 // 1. StatelessWidget
 // 2. StatefulWidget
 
